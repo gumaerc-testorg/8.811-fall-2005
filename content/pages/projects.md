@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 64205dd3-c33b-6ce3-cf55-759f0d3f73d3
 ---
@@ -50,7 +53,7 @@ Sample Final Projects
 
 Standard Model Higgs Detection and Measurements at a Linear Collider ([PDF - 2.5 MB]({{< baseurl >}}/resources/sm_higgs_lc)) (Courtesy of Georgios Choudalakis. Used with permission.)
 
-Search for a Z' at an e+e\- Collider ([PDF]({{< baseurl >}}/resources/8_811_paper_tom)) (Courtesy of Thomas Walker. Used with permission.) Comments by Prof. Chen after the paper was turned in ([PDF]({{< baseurl >}}/resources/comment_to_8_811))
+Search for a Z' at an e{{< sup "+" >}}e{{< sup "\\-" >}} Collider ([PDF]({{< baseurl >}}/resources/8_811_paper_tom)) (Courtesy of Thomas Walker. Used with permission.) Comments by Prof. Chen after the paper was turned in ([PDF]({{< baseurl >}}/resources/comment_to_8_811))
 
 Search for Neutrino Tau in the Long Baseline Appearance Experiment ([PDF]({{< baseurl >}}/resources/termpaper_final)) (Courtesy of Feng Zhou. Used with permission.)
 

@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource explains following topics: weak charged interaction changes,
   lecture 2 outline (for details see sym. and quarks, chapter 2 in Q&L).'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-811-particle-physics-ii-fall-2005/2f691104e0b82816f45cf260a7a76193_lec2.pdf
+file: /media/courses/8-811-particle-physics-ii-fall-2005/2f691104e0b82816f45cf260a7a76193_lec2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec2.pdf
 uid: 2f691104-e0b8-2816-f45c-f260a7a76193
