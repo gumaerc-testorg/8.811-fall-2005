@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64205dd3-c33b-6ce3-cf55-759f0d3f73d3
 resourcetype: Document
 title: comment_to_8_811.pdf
 uid: 704253ca-1490-86ab-fa13-68c9ba13ecad

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64205dd3-c33b-6ce3-cf55-759f0d3f73d3
 resourcetype: Document
 title: Classicalexample1.pdf
 uid: 0a4bc2b3-ccd2-6559-1280-0d4acb57d0fc

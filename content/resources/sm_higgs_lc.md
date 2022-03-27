@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64205dd3-c33b-6ce3-cf55-759f0d3f73d3
 resourcetype: Document
 title: sm_higgs_lc.pdf
 uid: dfa014a9-8a3d-4738-3b10-b907960f4b2b

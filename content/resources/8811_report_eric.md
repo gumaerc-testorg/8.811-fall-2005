@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 64205dd3-c33b-6ce3-cf55-759f0d3f73d3
 resourcetype: Document
 title: 8811_report_eric.pdf
 uid: 85686ef9-9d39-ebfa-6b3e-842568751b61
