@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar section lists the different lecture topics taught during
+  the duration of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

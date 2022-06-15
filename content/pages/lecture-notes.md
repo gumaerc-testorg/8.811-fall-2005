@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section lists the different topics taught during the
+  course along with respective files for some of the lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ Lecture Notes
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Fundamental Building Blocks and their Interactions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec1))
+Fundamental Building Blocks and their Interactions ({{% resource_link 05d873cc-ada5-bc9e-17e7-0e0b30119842 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Fundamental Building Blocks and their Interactions (![This resource may not rend
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Symmetries and Quarks; Discoveries of the J, Upsilon (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+Symmetries and Quarks; Discoveries of the J, Upsilon ({{% resource_link 2f691104-e0b8-2816-f45c-f260a7a76193 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Symmetries and Quarks; Discoveries of the J, Upsilon (![This resource may not re
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Gluons, Particle-antiparticle, Gluons inside Nucleons (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec3))
+Gluons, Particle-antiparticle, Gluons inside Nucleons ({{% resource_link 588e1b64-f909-ad64-b083-cc7e93e9df4b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ Gluons, Particle-antiparticle, Gluons inside Nucleons (![This resource may not r
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Dirac Formalism, Chirality, Helicity, Why Higgs? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec4))
+Dirac Formalism, Chirality, Helicity, Why Higgs? ({{% resource_link f38de00f-b5ae-dbc8-9efc-b4130b7ff3ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Dirac Formalism, Chirality, Helicity, Why Higgs? (![This resource may not render
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Local Gauge Transformation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec5))
+Local Gauge Transformation ({{% resource_link ed11dee1-7229-e587-b801-4b0cb5e13672 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ Local Gauge Transformation (![This resource may not render correctly in a screen
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions of the Dirac Equation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec6))
+Solutions of the Dirac Equation ({{% resource_link 4ddf9da3-9f56-018a-5fb8-62e337462252 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Solutions of the Dirac Equation (![This resource may not render correctly in a s
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix, Decays, Cross Sections and Radiative Corrections (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec7))
+Matrix, Decays, Cross Sections and Radiative Corrections ({{% resource_link 689b5bd2-af09-5f54-6be6-cf8e2ab487fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Matrix, Decays, Cross Sections and Radiative Corrections (![This resource may no
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Polarization, Propagator, Interaction Matrix, Cross Sections and Unitarity Bounds (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec8))
+Polarization, Propagator, Interaction Matrix, Cross Sections and Unitarity Bounds ({{% resource_link bf38eaa4-13c8-98c8-d325-97db0104362b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Polarization, Propagator, Interaction Matrix, Cross Sections and Unitarity Bound
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Unitarity Bound Violation and "New" Particles (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec9))
+Unitarity Bound Violation and "New" Particles ({{% resource_link c2db47fb-1b9f-b60d-4973-113561e8e0f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +108,7 @@ Unitarity Bound Violation and "New" Particles (![This resource may not render co
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constants (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10))
+Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constants ({{% resource_link 6b58a0a6-abcc-3548-1201-b2385e6ed968 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constan
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11))
+Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass ({{% resource_link 96b5a9fd-bb7b-9594-d9ef-7076823cb2b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass (![This re
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Electro-weak Interactions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12))
+Electro-weak Interactions ({{% resource_link e594058c-48fc-daae-3e92-b94a5dde260c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +135,7 @@ Electro-weak Interactions (![This resource may not render correctly in a screen 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Review (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13))
+Review ({{% resource_link 7246262d-658f-03ad-9b4c-27e919c0575f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
