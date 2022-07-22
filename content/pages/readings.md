@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The readings section contains listing of lecture topics along with the
+  assigned reading for the topics.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5f4c18a6-2216-84f2-8a24-19b3c7482d94
 ---
 
-Reading assignments are from [lecture notes]({{< baseurl >}}/pages/lecture-notes) and from the course textbooks:
+Reading assignments are from {{% resource_link 8c971b08-abe8-1461-0c04-fbbd833d7c4d "lecture notes" %}} and from the course textbooks:
 
 Q&L = Halzen, F., and A. D. Martin. _Quarks & Leptons: An Introductory Course in Modern Particle Physics_. New York, NY: John Wiley & Sons, 1984. ISBN: 9780471887416.
 
@@ -150,7 +155,7 @@ Muirhead, H. _Notes on Elementary Particle Physics_. 1st ed. New York, NY: Perga
 Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constants
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Notes]({{< baseurl >}}/pages/lecture-notes) for Session 10
+{{% resource_link 8c971b08-abe8-1461-0c04-fbbd833d7c4d "Lecture Notes" %}} for Session 10
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +167,7 @@ Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constan
 Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Notes]({{< baseurl >}}/pages/lecture-notes) for Session 11
+{{% resource_link 8c971b08-abe8-1461-0c04-fbbd833d7c4d "Lecture Notes" %}} for Session 11
 {{< tdclose >}}
 
 {{< trclose >}}

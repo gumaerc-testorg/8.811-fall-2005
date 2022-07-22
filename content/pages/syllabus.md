@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section contains information about the course textbooks,
+  exams, prerequisite, and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2d536626-0ee8-565e-0c69-96bb053757d4
 ---
@@ -19,7 +23,7 @@ Barger, V. D., and R. J. N. Phillips. _Collider Physics_. Menlo Park, CA: Addiso
 Exams
 -----
 
-There will be a mid-term exam but no final. You are allowed to bring a one-page formula sheet with you for this mid-term. Instead of the usual final exam, a [research paper]({{< baseurl >}}/pages/projects) with both written and oral presentations is required.
+There will be a mid-term exam but no final. You are allowed to bring a one-page formula sheet with you for this mid-term. Instead of the usual final exam, a {{% resource_link 64205dd3-c33b-6ce3-cf55-759f0d3f73d3 "research paper" %}} with both written and oral presentations is required.
 
 Prerequisite
 ------------
