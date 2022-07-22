@@ -6,6 +6,7 @@ file: /courses/8-811-particle-physics-ii-fall-2005/704253ca149086abfa1368c9ba13e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: comment_to_8_811.pdf
 uid: 704253ca-1490-86ab-fa13-68c9ba13ecad
 ---
 This file contains the information about the comments given by the professor after the paper was turned in.
-

@@ -6,6 +6,7 @@ file: /courses/8-811-particle-physics-ii-fall-2005/4ddf9da39f56018a5fb862e337462
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: 4ddf9da3-9f56-018a-5fb8-62e337462252
 ---
 This resource contains information about lepton mass mixing and quark mass mixing.
-

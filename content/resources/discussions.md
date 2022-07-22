@@ -6,6 +6,7 @@ file: /courses/8-811-particle-physics-ii-fall-2005/e5d4288214a45b1ca072e39967e5d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: discussions.pdf
 uid: e5d42882-14a4-5b1c-a072-e39967e5d476
 ---
 This file contains questions asked by the students and answers provided by the professor.
-
