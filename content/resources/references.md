@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the list of references for the research paper and
   journal listings.
 file: /courses/8-811-particle-physics-ii-fall-2005/5fa06e278e4534721f5b046b4b1b2590_references.pdf
+file_size: 19853
 file_type: application/pdf
 learning_resource_types:
 - Projects

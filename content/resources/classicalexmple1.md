@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on physics, design considerations,
   signal etc.
 file: /courses/8-811-particle-physics-ii-fall-2005/518b8713f72611d5e823f0986cacde44_classicalexmple1.pdf
+file_size: 115406
 file_type: application/pdf
 learning_resource_types:
 - Projects

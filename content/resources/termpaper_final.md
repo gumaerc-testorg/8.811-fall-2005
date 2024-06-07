@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information about the search for Neutrino Tau
   in the long baseline appearance experiment.
 file: /courses/8-811-particle-physics-ii-fall-2005/be883f68f07ce3aa203923cf9e92979b_termpaper_final.pdf
+file_size: 307339
 file_type: application/pdf
 learning_resource_types:
 - Projects

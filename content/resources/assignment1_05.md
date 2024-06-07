@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains exercise questions for nuclear forces, eigen-states,
   symmetric spin-favor etc.
 file: /courses/8-811-particle-physics-ii-fall-2005/3c9d7239db17f42ba5deeddb91b3f45c_assignment1_05.pdf
+file_size: 56632
 file_type: application/pdf
 learning_resource_types:
 - Assignments
