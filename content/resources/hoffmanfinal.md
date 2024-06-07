@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on supersymmetry detection and precision
   measurements at a linear collider, paper work done by Alan Hoffman.
 file: /courses/8-811-particle-physics-ii-fall-2005/9b377f5cfaecb0b2698bef6a7fd1a8f8_hoffmanfinal.pdf
+file_size: 213702
 file_type: application/pdf
 learning_resource_types:
 - Projects

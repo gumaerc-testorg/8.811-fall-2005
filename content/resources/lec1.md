@@ -5,6 +5,7 @@ description: 'This resource explains following topics: building blocks and their
   It also contains an article on "The thirty-year?s anniversary of the November Revolution"
   which contains the discovery, the impact and conclusions.'
 file: /courses/8-811-particle-physics-ii-fall-2005/05d873ccada5bc9e17e70e0b30119842_lec1.pdf
+file_size: 125482
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
