@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about local gauge transformation.
-file: /courses/8-811-particle-physics-ii-fall-2005/ed11dee17229e587b8014b0cb5e13672_lec5.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/ed11dee17229e587b8014b0cb5e13672_lec5.pdf
 file_size: 158174
 file_type: application/pdf
 learning_resource_types:
