@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about proton decay search, paper work
   done by Eric Fitzgerald.
-file: /courses/8-811-particle-physics-ii-fall-2005/85686ef99d39ebfa6b3e842568751b61_8811_report_eric.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/85686ef99d39ebfa6b3e842568751b61_8811_report_eric.pdf
 file_size: 164595
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains exercise questions based on the readings for rotational
   matrix, helicity etc.
-file: /courses/8-811-particle-physics-ii-fall-2005/11476723a0833fd50b0403f1c22c8fc9_assignment2_05.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/11476723a0833fd50b0403f1c22c8fc9_assignment2_05.pdf
 file_size: 51515
 file_type: application/pdf
 learning_resource_types:

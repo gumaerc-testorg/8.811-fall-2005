@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about Bottom-up approach: Unitarity
   bounds, "new" particles and their coupling constants.'
-file: /courses/8-811-particle-physics-ii-fall-2005/6b58a0a6abcc35481201b2385e6ed968_lec10.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/6b58a0a6abcc35481201b2385e6ed968_lec10.pdf
 file_size: 238299
 file_type: application/pdf
 learning_resource_types:
