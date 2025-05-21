@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about divergence of crosssections,
   and introduction to new particles.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/e594058c48fcdaae3e92b94a5dde260c_lec12.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/e594058c48fcdaae3e92b94a5dde260c_lec12.pdf
 file_size: 111922
 file_type: application/pdf
 learning_resource_types:

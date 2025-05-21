@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 6 problems to test the student's understanding
   of the course material. Basically it contains problems from the Q&L textbook. It
   also contains questions on quarks, and Feynman rules.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/49d897ec7963b9f160c75003b1c3fcae_assignment3.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/49d897ec7963b9f160c75003b1c3fcae_assignment3.pdf
 file_size: 47902
 file_type: application/pdf
 learning_resource_types:

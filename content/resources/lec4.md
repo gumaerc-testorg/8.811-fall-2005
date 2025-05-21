@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Dirac equations, chirality,
   helicity.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/f38de00fb5aedbc89efcb4130b7ff3ff_lec4.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/f38de00fb5aedbc89efcb4130b7ff3ff_lec4.pdf
 file_size: 119282
 file_type: application/pdf
 learning_resource_types:
