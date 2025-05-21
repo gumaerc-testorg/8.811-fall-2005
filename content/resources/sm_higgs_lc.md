@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains the information about motivation, history, linear
   colliders, analysis plans for standard model higgs detection and measurements at
   a linear collider.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/dfa014a98a3d47383b10b907960f4b2b_sm_higgs_lc.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/dfa014a98a3d47383b10b907960f4b2b_sm_higgs_lc.pdf
 file_size: 2673656
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about gluons, particle-antiparticle,
   gluons inside nucleons.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/588e1b64f909ad64b083cc7e93e9df4b_lec3.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/588e1b64f909ad64b083cc7e93e9df4b_lec3.pdf
 file_size: 81421
 file_type: application/pdf
 learning_resource_types:

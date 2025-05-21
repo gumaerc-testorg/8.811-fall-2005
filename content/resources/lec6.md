@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about lepton mass mixing and quark
   mass mixing.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/4ddf9da39f56018a5fb862e337462252_lec6.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/4ddf9da39f56018a5fb862e337462252_lec6.pdf
 file_size: 85744
 file_type: application/pdf
 learning_resource_types:
