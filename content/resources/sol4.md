@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the 5 problems to test the student's
   understanding of the course material.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/435873810c07b410871732ee3253243a_sol4.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/435873810c07b410871732ee3253243a_sol4.pdf
 file_size: 204836
 file_type: application/pdf
 learning_resource_types:

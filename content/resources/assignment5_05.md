@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains exercise questions for decay width and higgs coupling
   constants.
-file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/59392c7ae983cefc011c0b88792451e6_assignment5_05.pdf
+file: /courses/8-811-particle-physics-ii-fall-2005/59392c7ae983cefc011c0b88792451e6_assignment5_05.pdf
 file_size: 56255
 file_type: application/pdf
 learning_resource_types:
