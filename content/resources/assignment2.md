@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 4 problems to test the student's understanding
   of the course material. Basically it contains problems from the Q&L textbook. It
   also contains questions on helicity eigenstates.
-file: /courses/8-811-particle-physics-ii-fall-2005/5e2d7416eb74f15886464a2832a728e9_assignment2.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/5e2d7416eb74f15886464a2832a728e9_assignment2.pdf
 file_size: 43018
 file_type: application/pdf
 learning_resource_types:
