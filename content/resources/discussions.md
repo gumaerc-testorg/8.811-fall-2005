@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains questions asked by the students and answers provided
   by the professor.
-file: /courses/8-811-particle-physics-ii-fall-2005/e5d4288214a45b1ca072e39967e5d476_discussions.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/e5d4288214a45b1ca072e39967e5d476_discussions.pdf
 file_size: 84593
 file_type: application/pdf
 learning_resource_types:

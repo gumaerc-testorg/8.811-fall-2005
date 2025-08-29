@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains exercise questions for polarization, propagator,
   interaction matrix, and cross sections.
-file: /courses/8-811-particle-physics-ii-fall-2005/e737dfa8ba869121b49c1473917d76fe_assignment3_05.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/e737dfa8ba869121b49c1473917d76fe_assignment3_05.pdf
 file_size: 47995
 file_type: application/pdf
 learning_resource_types:

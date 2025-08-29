@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 6 problems to test the student's understanding
   of the course material. Basically it contains problems from the Q&L textbook. It
   also contains a question on magnetic dipole moments of a proton and a neutron.
-file: /courses/8-811-particle-physics-ii-fall-2005/8e97d665bf8df59c24c6917642b0cffd_assignment1.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/8e97d665bf8df59c24c6917642b0cffd_assignment1.pdf
 file_size: 42465
 file_type: application/pdf
 learning_resource_types:

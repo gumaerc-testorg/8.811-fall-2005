@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains exercise questions for midterm and final exam.
-file: /courses/8-811-particle-physics-ii-fall-2005/e2152ff1bb9c4dacfe3900ec068f4b72_assignment4_05.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/e2152ff1bb9c4dacfe3900ec068f4b72_assignment4_05.pdf
 file_size: 13085
 file_type: application/pdf
 learning_resource_types:
