@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about neutrino masses and oscillations.
-file: /courses/8-811-particle-physics-ii-fall-2005/689b5bd2af095f546be6cf8e2ab487fe_lec7.pdf
+file: /ol-ocw-studio-app/courses/8-811-particle-physics-ii-fall-2005/689b5bd2af095f546be6cf8e2ab487fe_lec7.pdf
 file_size: 73509
 file_type: application/pdf
 learning_resource_types:
